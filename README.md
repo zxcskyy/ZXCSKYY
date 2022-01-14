@@ -6,7 +6,7 @@ Other thing you need to know:
 
 - 🌱 I’m currently learning on programming.
 - 💬 Ask me about Telegram Bot
-- 📫 Contact me on: [Telegram](https://t.me/dlwrml)
+- 📫 Contact me on: [Telegram](https://t.me/zxcskyy)
 
 ### My Stats
 ![Zxcskyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcskyy&show_icons=true&theme=radical)
