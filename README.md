@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello There 👋🏻, welcome to my GitHub profile.
 
-<!--
-**zxcskyy/ZXCSKYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let me introduce you about myself, my name is Kyy; 20 y.o from Indonesia
 
-Here are some ideas to get you started:
+Other thing you need to know:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning on programming.
+- 💬 Ask me about Telegram Bot
+- 📫 Contact me on: [Telegram](https://t.me/dlwrml)
+
+### My Stats
+![Zxcskyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcskyy&show_icons=true&theme=radical)
+
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcskyy&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/levina-lab)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=zxcskyy)
