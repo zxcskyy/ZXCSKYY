@@ -1,6 +1,6 @@
 ### Hello There 👋🏻, welcome to my GitHub profile.
 
-Let me introduce you about myself, my name is Kyy; 20 y.o from Indonesia
+Let me introduce you about myself, my name is Kyy from Indonesia
 
 Other thing you need to know:
 
